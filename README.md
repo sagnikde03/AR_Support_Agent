@@ -1,6 +1,6 @@
-# CapLinked AR Agent — Phase 1
+# AR Support Agent 
 
-Internal AI assistant for the CapLinked billing and accounts receivable team.
+Internal AI assistant for the company's billing and accounts receivable team.
 Answers AR questions by retrieving context from historical Zendesk billing tickets
 and past email threads, then generating a grounded response using Claude.
 Sensitive or document-dependent queries are escalated to Brie and Leila — never
